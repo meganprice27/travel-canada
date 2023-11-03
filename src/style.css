@@ -58,24 +58,24 @@ h2 {
 }
 
 .button {
-  background: rgb(232 251 253);
-  color: #6b65af;
+  background: #6b65af;
+  color: white;
   font-family: "Rubik", sans-serif;
   font-size: 15px;
   padding: 15px 19px;
   display: block;
   margin: 0 auto 30px auto;
   margin-top: 25px;
-  border: 1px solid rgb(211, 249, 253);
+  border: none;
   border-radius: 30px;
   box-shadow: 1px 3px 10px rgba(0, 0, 0, 0.3);
   transition: all 200ms ease-in-out;
 }
 
 .button:hover {
-  background: #6b65af;
-  border: #6b65af;
-  color: white;
+  
+  background: rgb(232 251 253);
+  color: #6b65af;
   cursor: pointer;
 }
 
