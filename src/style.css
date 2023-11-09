@@ -1,15 +1,8 @@
+
+
 body {
   background: rgb(238 248 249);
   font-family: "Rubik", sans-serif;
-}
-
-.container {
-  background: #f8fafb;
-  box-shadow: 0 3px 7px rgb(132 145 147);
-  border-radius: 16px;
-  max-width: 650px;
-  margin: 45px auto;
-  padding: 20px;
 }
 
 h1 {
