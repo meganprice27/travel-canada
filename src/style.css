@@ -90,4 +90,11 @@ footer {
   h1 {
     font-size: 35px;
   }
+
+  h2 {
+    margin: 30px;
+  }
+  footer {
+    margin: 5px;
+  }
 }
